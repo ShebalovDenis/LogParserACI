@@ -8,6 +8,9 @@ public class Message implements Comparable<Message>{
 	private final String message;
 	
 	//Vot eto daaaaa
+	
+	
+	//New change
 
 	public Message(Date datetime, String message) {
 		this.datetime = datetime;
